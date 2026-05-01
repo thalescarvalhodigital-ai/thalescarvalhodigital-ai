@@ -29,6 +29,6 @@
 
 ###
 
-<img align="right" height="100" src="https://raw.githubusercontent.com/L-Henrique/L-Henrique/main/assets/brazil.gif"  />
+<img src="https://raw.githubusercontent.com/L-Henrique/L-Henrique/main/assets/brazil.gif" width="100" align="right" />
 
 ###
