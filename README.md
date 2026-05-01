@@ -29,6 +29,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/L-Henrique/L-Henrique/main/assets/brazil.gif" width="100" align="right" />
+<img width="200" height="200" alt="Gemini_Generated_Image_39m9na39m9na39m9" src="https://github.com/user-attachments/assets/ed7d3acf-3998-433b-b5e3-d56f29e4f8f0" />
 
 ###
